@@ -1,2 +1,2 @@
-# c-lenguage-in-master-
-c lenguage in master 
+# c-language-in-master-
+c language in master 
